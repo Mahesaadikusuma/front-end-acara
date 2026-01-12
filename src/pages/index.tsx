@@ -11,16 +11,7 @@ export default function Home() {
       className={`flex min-h-screen flex-col items-center justify-between p-24 ${inter.className}`}>
       <PageHead />
 
-      <Button color='danger'>Click me</Button>
-
-      <Input label='Email' type='email' />
-
-      <p className='text-red-800'>
-        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempora error
-        adipisci fuga reprehenderit unde. Blanditiis nesciunt iusto commodi
-        ullam unde est! Natus deleniti assumenda vel qui, explicabo accusamus
-        accusantium dolorem!
-      </p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore doloremque incidunt non at ea quos aliquam illum quibusdam aut ab. Mollitia fugit natus repellendus tenetur blanditiis culpa officiis quae esse.</p>
     </main>
   );
 }
